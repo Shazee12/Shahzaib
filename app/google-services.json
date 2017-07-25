@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "220582139413",
+    "firebase_url": "https://trafficupdateapp.firebaseio.com",
+    "project_id": "trafficupdateapp",
+    "storage_bucket": "trafficupdateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220582139413:android:54e11184bd1dd6a0",
+        "android_client_info": {
+          "package_name": "shahzaib.com.trafficupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220582139413-i9qloo90sddllggu63tnvf536995j009.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "220582139413-b8cmga070l82n86m5v0s4ij1vb4ctk2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shahzaib.com.trafficupdate",
+            "certificate_hash": "41c870dd4b53932c609ada474e83b2e3208f56db"
+          }
+        },
+        {
+          "client_id": "220582139413-oqjs0b422h8oiqiorgjp2tb7dm3i42gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeF0vBleJGCBL1fhYHO5nDFXwo7v7hAwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220582139413-i9qloo90sddllggu63tnvf536995j009.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
